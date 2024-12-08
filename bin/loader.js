@@ -1,5 +1,5 @@
 import { Command } from 'commander';
-import { pageLoader } from '../page-loader';
+import { pageLoader } from '../src/page-loader.js';
 
 const program = new Command();
 
